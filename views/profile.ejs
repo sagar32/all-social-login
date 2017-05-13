@@ -45,6 +45,9 @@
 
                 <!-- check if the user has this token (is the user authenticated with this social account) -->
                 <% if (user.facebook.token) { %>
+            <div>
+                <img height="50px" width="50px" src="http://graph.facebook.com/<%= user.facebook.id %>/picture" />
+            </div>
                     <p>
                         <strong>id</strong>: <%= user.facebook.id %><br>
                         <strong>token</strong>: <%= user.facebook.token %><br>
