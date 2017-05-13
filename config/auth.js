@@ -16,8 +16,8 @@ module.exports = {
     },
 
     'googleAuth' : {
-        'clientID'         : 'your-secret-clientID-here',
-        'clientSecret'     : 'your-client-secret-here',
+        'clientID'         : '780596204536-4lu9f244j4oo9bmtd9nvm4b4ivq2n242.apps.googleusercontent.com',
+        'clientSecret'     : 'Ieb7bXM3eYXz14YkWpKibWPl',
         'callbackURL'      : 'https://login-using-facebook.herokuapp.com/auth/google/callback'
     }
 
