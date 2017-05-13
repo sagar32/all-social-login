@@ -10,8 +10,8 @@ module.exports = {
     },
 
     'twitterAuth' : {
-        'consumerKey'        : '3P2h1Cc7Y7G5MGaN8bhePSYiw',
-        'consumerSecret'     : 'lH8H1DRzdcu0klJVLJLElSU6JKfZZXOBRDncnYnzCbpVmhLAzu',
+        'consumerKey'        : 'BOG2ZvjwWzAUrAkRjE9B796Hj',
+        'consumerSecret'     : 'ok0V9uVhyuW0rrFC71uQKKhcO79qSWJI5bs3qFMOYMYmfPeKPv',
         'callbackURL'        : 'https://login-using-facebook.herokuapp.com/auth/twitter/callback'
     },
 
